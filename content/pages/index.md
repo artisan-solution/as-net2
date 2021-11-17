@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-3.svg
+        image: images/transfo-digitale.svg
         image_alt: Solutions numériques
         media_position: right
         media_width: sixty
@@ -73,7 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
+        image: images/list-tenders.svg
         image_alt: Appels d'offres de marché public
         media_position: right
         media_width: sixty
@@ -149,20 +149,20 @@ seo:
       value: Artisan Solution
       keyName: property
     - name: 'og:description'
-      value: Des solutions digitales pour artisans et TPE/PME
+      value: Solutions digitales pour artisans et TPE/PME
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: images/artisans-together.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Artisan Solution
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: Artisan Solution
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: images/artisans-together.png
       relativeUrl: true
 layout: advanced
 ---

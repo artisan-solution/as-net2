@@ -13,6 +13,11 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "☎ : 09 72 21 69 88",
+                "url": "tel://0972216988",
+                "style": "link"
+            },
+            {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
@@ -37,7 +42,7 @@
                 "style": "link"
             },
             {
-                "label": "Nous contacter",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             }
@@ -47,6 +52,11 @@
             {
                 "label": "Mentions légales",
                 "url": "/terms",
+                "style": "link"
+            },
+            {
+                "label": "Conditions Générales d'Utilisation",
+                "url": "/cgu",
                 "style": "link"
             }
         ],
