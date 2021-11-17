@@ -1,52 +1,43 @@
 {
-    "title": "Stackbit Personal Theme",
+    "title": "Artisan Solution",
     "path_prefix": "/",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "classic",
-    "palette": "red",
+    "palette": "blue",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Personal",
-        "logo": "images/logo.svg",
-        "logo_alt": "Personal logo",
+        "title": "Header",
+        "logo": "/images/Logo_Transparent_Grand (1).png",
+        "logo_alt": "Artisan Solution",
         "has_primary_nav": true,
         "primary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
             {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
             },
             {
-                "label": "Contact me",
+                "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "has_icon": false
             }
         ],
         "has_secondary_nav": false
     },
     "footer": {
-        "logo": "images/logo.svg",
-        "logo_alt": "Personal logo",
-        "has_primary_nav": true,
+        "logo": "/images/Logo_Transparent_Grand (1)-6d3e4823.png",
+        "logo_alt": "Artisan Solution",
+        "has_primary_nav": false,
         "primary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
             {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
             },
             {
-                "label": "Contact me",
+                "label": "Nous contacter",
                 "url": "/contact",
                 "style": "link"
             }
@@ -54,18 +45,8 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Mentions légales",
+                "url": "/terms",
                 "style": "link"
             }
         ],
@@ -74,7 +55,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/rtisansolution",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
@@ -83,7 +64,7 @@
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/artisan-solution/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "github",
@@ -92,49 +73,16 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/company/artisansolution/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://instagram.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Artisan Solution. Tous droits réservés."
     },
-    "announcement": {
-        "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
-    }
+    "domain": "https://www.artisan-solution.net",
+    "favicon": "/images/favicon.ico"
 }

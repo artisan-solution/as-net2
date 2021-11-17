@@ -2,52 +2,53 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: Frequently Asked Questions
+    title: Questions fréquentes
     subtitle: >-
-      My answers
+      Nos réponses
     align: center
     padding_top: medium
     padding_bottom: small
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
+      - title: Comment procédez-vous?
         content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
-      - title: Can you manage our social media?
+          Parceque c'est important de comprendre votre activité et vos besoins,
+           au départ nous échangeons et répondons à une série de questions
+          sur votre problématique. Ensuite nous commençons à travailler avec
+          un point quotidien pour vous tenir informer de l'avancement du projet.
+      - title: Pouvez-vous héberger notre site?
         content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
-      - title: How do you base your pricing?
+          Bien-sûr! Nous pouvons héberger votre site, boutique en ligne ou
+          toute autre service digital. Nous sommes en mesure de vous proposer 
+          la solution qui sera la plus facile à mettre en place et la plus 
+          simple à gérer par la suite. Mais évidemment vous pouvez aussi 
+          avoir une solution d'hébergement différente.
+      - title: Comment fonctionne la tarification?
         content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
-      - title: What if my business is technical?
+          En fonction du périmètre et du volume d'heures nécessaires pour votre 
+          projet, nous pouvons travailler sur une base horaire, ou bien sur un forfait 
+          pour l'ensemble du projet. Lorsque nous avons bien défini le besoin nous 
+          établissons un devis avec plusieurs options au choix.
+      - title: Quels services téléphoniques proposez-vous?
         content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
-      - title: How fast can we get started?
+          Nous proposons la mise en place d'un Serveur Vocal Interactif. Plus
+           qu'un simple répondeur, il permet en fonction des horaires et des choix de l'appelant, 
+          de router les appels vers une messagerie, ou vers des numéros fixes ou mobiles 
+          français ou étrangers.
+      - title: Prenez-vous en charge la maintenance? 
         content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
-      - title: Who handles the design?
+          La facilité et la simplicité de l'usage du numérique est dans l'ADN 
+          d'Artisan-Solution, donc bien évidemment, pour chaque projet nous 
+          proposons un contrat de support.
+      - title: Quelles actions bureautiques peuvent-elles être automatisées?
         content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+          La plupart des tâches répétitives peuvent être facilement automatisées,
+          comme par exemple, 
+          l'émission de bon de commande ou de facture sur réception d'email, ou 
+          l'envoi de SMS sur ajout de ligne dans un tableur, 
+          La liste des possibilités offertes grâce aux APIs disponibles sur la plupart des applications, 
+          est quasi-infinie.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
