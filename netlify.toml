@@ -16,8 +16,20 @@ environment = { NODE_VERSION = "12" }
   force = true
 
 [[redirects]]
-  from = "/service/"
-  to = "https://service.artisansolution.fr/"
+  from = "https://www.artisan-solution.net/*"
+  to = "https://www.artisansolution.fr/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://artisan-solution.net/*"
+  to = "https://www.artisansolution.fr/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/assistance/"
+  to = "https://assistance.artisansolution.fr/"
   status = 301
 
 [[redirects]]
@@ -72,7 +84,7 @@ environment = { NODE_VERSION = "12" }
 
 [[redirects]]
   from = "/marches-publics/*"
-  to = "https://as-avis7.netlify.app/:splat"
+  to = "https://as-avis7.netlify.app/marches-publics/:splat"
   status = 200
 
 [[redirects]]

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 sections:
   - type: hero_section
     subtitle: >-
@@ -34,13 +34,13 @@ sections:
         media_position: right
         media_width: sixty
       - title: Boutique en ligne
-        subtitle: 'Solutions ecommerce'
+        subtitle: 'Solutions e-commerce'
         content: >-
           Pour que la gestion d'une boutique en ligne soit la plus facile possible,
           nos solutions sont simples et automatisées, avec par exemple le calcul 
           des frais d'expédition, la gestion des stocks, ou l'envoi automatique d'email et de SMS.
           Des solutions adaptées à chaque situation.
-        image: images/feature-2.svg
+        image: images/artisans-together.png
         image_alt: Boutique en ligne
         media_position: right
         media_width: sixty
