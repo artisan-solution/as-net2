@@ -41,8 +41,8 @@ environment = { NODE_VERSION = "12" }
   status = 200
 
 [[redirects]]
-  from = "/service/*"
-  to = "https://as-avis7.netlify.app/service/:splat"
+  from = "/services/*"
+  to = "https://as-avis7.netlify.app/services/:splat"
   status = 200
 
 [[redirects]]
