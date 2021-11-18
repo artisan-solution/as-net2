@@ -2,30 +2,23 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact Me
+    title: Contact
     subtitle: >-
-      Fill out the form below and I will get in touch within 1 business day.
+      Remplissez le formulaire et vous serez recontacter très rapidement.
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
     content: >-
-      ## Pricing
+      ## Artisan Solution
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
+      3 rue Paul Vallier 38400 St Martin d'Hères<br/>
+     
+      Lundi - Vendredi : 8h - 19h
 
-      ### Proposal
+      ### [09 72 21 69 88](tel://0972216988)
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
-
-      ### Terms
-
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
     content_align: left
     form_position: left
     form_width: fifty
@@ -36,25 +29,19 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nom
+        default_value: Votre nom
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Votre adresse email
         is_required: true
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
-    submit_label: Send Message
+        default_value: Votre message
+    submit_label: Envoi
     align_vert: top
     padding_top: medium
     padding_bottom: medium
@@ -65,7 +52,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Contact
-  description: This is the contact page
+  description: Ceci est la page de contact
   extra:
     - name: og:type
       value: website
@@ -74,13 +61,13 @@ seo:
       value: Contact
       keyName: property
     - name: og:description
-      value: This is the contact page
+      value: Ceci est la page de contact
       keyName: property
     - name: twitter:card
       value: summary
     - name: twitter:title
       value: Contact
     - name: twitter:description
-      value: This is the contact page
+      value: Ceci est la page de contact
 layout: advanced
 ---

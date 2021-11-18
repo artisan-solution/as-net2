@@ -33,16 +33,6 @@ environment = { NODE_VERSION = "12" }
   status = 301
 
 [[redirects]]
-  from = "/contact/*"
-  to = "https://as-avis7.netlify.app/contact/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/terms/*"
-  to = "https://as-avis7.netlify.app/terms/:splat"
-  status = 200
-
-[[redirects]]
   from = "/cgu/*"
   to = "https://as-avis7.netlify.app/cgu/:splat"
   status = 200
