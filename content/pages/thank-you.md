@@ -2,11 +2,11 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Merci!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have a great day!
+      Merci pour votre message. A très bientôt!
     actions:
-      - label: Back to homepage
+      - label: Retour
         url: /
         style: primary
         has_icon: true
