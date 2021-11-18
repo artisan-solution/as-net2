@@ -39,6 +39,11 @@ package = "@netlify/plugin-sitemap"
   status = 301
 
 [[redirects]]
+  from = "/sitemap2.xml*"
+  to = "https://as-avis7.netlify.app/sitemap2.xml:splat"
+  status = 200
+
+[[redirects]]
   from = "/cgu/*"
   to = "https://as-avis7.netlify.app/cgu/:splat"
   status = 200
