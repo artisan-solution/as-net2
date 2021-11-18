@@ -1,4 +1,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <sitemap>
+                <loc>https://www.artisansolution.fr/sitemap.xml</loc>
+        </sitemap>
 	<sitemap>
 		<loc>https://www.artisansolution.fr/sitemap-avis-1801.xml</loc>
 	</sitemap>
