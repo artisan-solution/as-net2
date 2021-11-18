@@ -3,6 +3,12 @@ publish = "out"
 command = "npm run build"
 environment = { NODE_VERSION = "12" }
 
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+
 [[redirects]]
   from = "https://www.artisan-solution.com/*"
   to = "https://www.artisansolution.fr/"
