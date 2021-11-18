@@ -80,6 +80,26 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: grid_section
+    title: Ils nous font confiance
+    subtitle: Nos références
+    align: center
+    grid_items:
+      - image: images/logo-BeautyIndustrie.jpeg
+        image_alt: Beauty Industrie
+        image_align: center
+      - image: images/logo-FabienneAumont.png
+        image_alt: Cabinet Fabienne Aumont
+        image_align: center
+      - image: images/logo-SoftPeople.png
+        image_alt: Soft People
+        image_align: center
+      - image: images/logo-DN95.svg
+        image_alt: Destruction Nuisibles
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: form_section
     content: >-
       ## Discutons
