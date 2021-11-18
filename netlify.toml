@@ -7,7 +7,7 @@ environment = { NODE_VERSION = "12" }
 package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-  buildDir = "public"
+  buildDir = "out"
 
 [[redirects]]
   from = "https://www.artisan-solution.com/*"
