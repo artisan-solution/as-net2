@@ -3,7 +3,13 @@
                 <loc>https://www.artisansolution.fr/sitemap.xml</loc>
         </sitemap>
         <sitemap>
+                <loc>https://www.artisansolution.fr/sitemap1.xml</loc>
+        </sitemap>
+        <sitemap>
                 <loc>https://www.artisansolution.fr/sitemap2.xml</loc>
+        </sitemap>
+        <sitemap>
+                <loc>https://www.artisansolution.fr/sitemap3.xml</loc>
         </sitemap>
 	<sitemap>
 		<loc>https://www.artisansolution.fr/sitemap-avis-1801.xml</loc>
