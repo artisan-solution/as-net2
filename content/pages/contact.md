@@ -13,11 +13,9 @@ sections:
     content: >-
       ## Artisan Solution
 
-      3 rue Paul Vallier 38400 St Martin d'Hères<br/>
-     
       Lundi - Vendredi : 8h - 19h
 
-      ### [09 72 21 69 88](tel://0972216988)
+      ### [06 85 40 75 81](tel://0685407581)
 
     content_align: left
     form_position: left

@@ -22,10 +22,8 @@ seo:
 layout: page
 ---
 
-**Editeur** : SAS Positive Solutions  - Capital social de 2000€ - RCS852296011 Grenoble - Numéro de TVA: FR55852296011
+**Editeur** : Artisan Solution - Forme Juridique: Entreprise Individuelle - Siret: 849 343 926 00028 - Activite: Programmation Informatique (6201Z)
 
-**Responsable publication** : Artisan Solution - 15 rue Colonel Manhès 38400 St Martin d'Hères
+**Responsable publication** : Olivier DESECURES
 
 **Hébergeur** : Netlify – 610 22nd Street, Suite 315 CA-94107 San Francisco +1 844-899-7312
-
-**Délégué à la protection des données** : Artisan Solution – rgpd@artisan-solution.com

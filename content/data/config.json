@@ -13,8 +13,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "☎ : 09 72 21 69 88",
-                "url": "tel://0972216988",
+                "label": "☎ : 06 85 40 75 81",
+                "url": "tel://0685407581",
                 "style": "link"
             },
             {
@@ -52,11 +52,6 @@
             {
                 "label": "Mentions légales",
                 "url": "/terms",
-                "style": "link"
-            },
-            {
-                "label": "Conditions Générales d'Utilisation",
-                "url": "/cgu",
                 "style": "link"
             }
         ],
